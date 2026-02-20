@@ -1,0 +1,9 @@
+venv/
+*_venv/
+.DS_Store
+__pycache__/
+datasets/
+runs/
+RDD2022/
+*.mp4
+.python-version

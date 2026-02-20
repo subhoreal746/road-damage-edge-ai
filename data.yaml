@@ -1,0 +1,18 @@
+path: /Users/subhojitbaidya/rdd_yolo/RDD2022
+
+train:
+  - India/train/images
+  - Japan/train/images
+
+val:
+  - India/train/images
+  - Japan/train/images
+
+nc: 4
+
+names:
+  0: D00
+  1: D10
+  2: D20
+  3: D40
+
